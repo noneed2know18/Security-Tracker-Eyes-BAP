@@ -6,7 +6,7 @@ This is a simple web-based encryption tool that allows users to encrypt and decr
 
 ## Link
 
-- **Link**: https://lolobrndvr.github.io/Encryption-Software/
+Link : https://lolobrndvr.github.io/Encryption-Software/
 
 ## Features
 
