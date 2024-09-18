@@ -1,2 +1,18 @@
-# Encryption-Software
-This web-based encryption tool provides an interface for encrypting and decrypting text using predefined or custom encryption keys. It includes a matrix-style background effect to enhance user experience. Users can enter text, select or input a key, and view the encrypted or decrypted result in real-time.
+# Encryption Software
+
+## Description
+
+This is a simple web-based encryption tool that allows users to encrypt and decrypt text using various encryption keys. The software features a visually engaging matrix effect animation. Users can select from predefined encryption keys or input their own custom key for the encryption/decryption process.
+
+## Features
+
+- **Text Encryption**: Encrypt your text using a selected key.
+- **Text Decryption**: Decrypt previously encrypted text using the same key.
+- **Custom Key Input**: Option to enter a custom encryption key.
+- **Matrix Animation**: Background matrix effect for a visually appealing interface.
+
+## Installation
+
+1. **Clone or Download**: Download the HTML file from this repository or clone the repository using:
+   ```bash
+   git clone https://github.com/LolobrndVR/Encryption-Software.git
