@@ -1,20 +1,10 @@
-# Encryption Software
+N2K x JonnyYuqii BAP
 
-## Description
+Notre Mission : Protéger les Enfants
+Bienvenue sur la plateforme N2K x JonnyYuqii. Nous sommes une communauté dévouée, unissant nos forces pour lutter contre les comportements prédateurs en ligne et protéger les enfants. nous agissons chaque jour pour créer un monde plus sûr.
 
-This is a simple web-based encryption tool that allows users to encrypt and decrypt text using various encryption keys. The software features a visually engaging matrix effect animation. Users can select from predefined encryption keys or input their own custom key for the encryption/decryption process.
+Chaque membre de la BAP joue un rôle essentiel : sensibiliser les familles, signaler les abus aux autorités compétentes et contribuer à des campagnes éducatives. Grâce à notre réseau grandissant, nous avons déjà pu intervenir dans des situations critiques.
 
-https://noneed2know18.github.io/Encryption-Software/
+Rejoindre la BAP, c’est s’impliquer dans une mission noble et courageuse. Nous croyons en la force collective pour réduire les risques auxquels les enfants sont exposés. nous développons des outils concrets pour surveiller et signaler les activités suspectes, tout en accompagnant les victimes et leurs familles.
 
-## Features
-
-- **Text Encryption**: Encrypt your text using a selected key.
-- **Text Decryption**: Decrypt previously encrypted text using the same key.
-- **Custom Key Input**: Option to enter a custom encryption key.
-- **Matrix Animation**: Background matrix effect for a visually appealing interface.
-
-## Installation
-
-1. **Clone or Download**: Download the HTML file from this repository or clone the repository using:
-   ```bash
-   git clone https://github.com/LolobrndVR/Encryption-Software.git
+Nous avons besoin de vous pour continuer ce combat. Que vous souhaitiez contribuer à notre réseau de veille ou simplement soutenir nos actions, chaque geste compte. Ensemble, nous pouvons changer les choses.
