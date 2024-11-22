@@ -8,3 +8,5 @@ Chaque membre de la BAP joue un rôle essentiel : sensibiliser les familles, sig
 Rejoindre la BAP, c’est s’impliquer dans une mission noble et courageuse. Nous croyons en la force collective pour réduire les risques auxquels les enfants sont exposés. nous développons des outils concrets pour surveiller et signaler les activités suspectes, tout en accompagnant les victimes et leurs familles.
 
 Nous avons besoin de vous pour continuer ce combat. Que vous souhaitiez contribuer à notre réseau de veille ou simplement soutenir nos actions, chaque geste compte. Ensemble, nous pouvons changer les choses.
+
+https://noneed2know18.github.io/N2K-x-JonnyYuqii-BAP/
