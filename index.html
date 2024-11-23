@@ -257,6 +257,10 @@
     </div>
 
     <script>
+    if (window.innerWidth <= 768) {
+        window.location.href = 'https://google.com'; // Remplace par l'URL de redirection
+    }
+
         const canvas = document.getElementById('networkCanvas');
         const ctx = canvas.getContext('2d');
         const soundButton = document.getElementById('soundButton');
