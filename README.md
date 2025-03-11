@@ -1,7 +1,7 @@
 Security Tracker Eyes (BAP)
 
 Notre Mission : Protéger les Enfants
-Bienvenue sur la plateforme N2K x LeynaYuqii. Nous sommes une communauté dévouée, unissant nos forces pour lutter contre les comportements prédateurs en ligne et protéger les enfants. nous agissons chaque jour pour créer un monde plus sûr.
+Bienvenue sur la plateforme Security Tracker Eyes. Nous sommes une communauté dévouée, unissant nos forces pour lutter contre les comportements prédateurs en ligne et protéger les enfants. nous agissons chaque jour pour créer un monde plus sûr.
 
 Chaque membre de la BAP joue un rôle essentiel : sensibiliser les familles, signaler les abus aux autorités compétentes et contribuer à des campagnes éducatives. Grâce à notre réseau grandissant, nous avons déjà pu intervenir dans des situations critiques.
 
