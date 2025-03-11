@@ -1,3 +1,7 @@
+Dans ce code.
+Trouve moi le truc qui met par défaut le claire. Pour que je puisse le changer en noir
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -10,8 +14,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: black;
-            color: white;
+            background: white;
+            color: black;
             text-align: center;
             transition: background 0.3s, color 0.3s;
             display: flex;
@@ -23,7 +27,7 @@
             top: 0;
             left: 0;
             width: 100%;
-            background: black;
+            background: white;
             padding: 15px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             display: flex;
@@ -42,7 +46,7 @@
         }
         .navbar a {
             text-decoration: none;
-            color: white;
+            color: black;
             font-size: 1.2rem;
             font-weight: bold;
             transition: color 0.3s;
@@ -50,14 +54,14 @@
         }
         .toggle-btn {
             padding: 10px 20px;
-            background: white;
-            color: black;
+            background: black;
+            color: white;
             border: none;
             cursor: pointer;
             font-size: 1rem;
             font-weight: bold;
             transition: background 0.3s, color 0.3s;
-            margin-right: 20px;
+            margin-right: 20px; /* Décalage plus important sur la gauche */
         }
         .discord-btn {
             padding: 10px 20px;
@@ -104,7 +108,7 @@
         .footer {
             text-align: center;
             padding: 20px;
-            background: #222;
+            background: #f1f1f1;
             margin-top: auto;
             width: 100%;
         }
@@ -128,7 +132,7 @@
             background: #000;
         }
         .dark-mode .contact-buttons .tiktok {
-            background: #4a0072;
+            background: #4a0072; /* Violet foncé en mode sombre */
         }
         @media (max-width: 768px) {
             .navbar {
@@ -147,7 +151,7 @@
         }
     </style>
 </head>
-<body class="dark-mode">
+<body>
     <div class="navbar">
         <div class="left">
             <img src="IMG_5957.jpeg" alt="Logo" class="logo">
@@ -156,7 +160,7 @@
                 <a onclick="showSection('accueil')">Accueil</a>
             </div>
         </div>
-        <button class="toggle-btn" onclick="toggleMode()">Clair</button>
+        <button class="toggle-btn" onclick="toggleMode()">Sombre</button>
     </div>
     <div id="accueil" class="section">
         <h1>Notre Mission : Protéger les Enfants</h1>
